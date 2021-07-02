@@ -1,5 +1,4 @@
 <h3>Hi, I'm Khaled ABBACI</h3>
-<h4>I'm a Software Engineer</h4>
 
 <h4>Stack</h4>
 <div>
