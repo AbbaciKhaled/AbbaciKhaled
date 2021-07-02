@@ -3,12 +3,12 @@
 <h4>Stack</h4>
 <h5>Frontend</h5>
 <div>
-    <img style="margin-left:2px; margin-right:2px;" src="assets/nodejs.jpg" />
-    <img style="margin-left:2px; margin-right:2px;" src="assets/angular.jpg" />
-    <img style="margin-left:2px; margin-right:2px;" src="assets/typescript.jpg" />
-    <img style="margin-left:2px; margin-right:2px;" src="assets/bootstrap.jpg" />
-    <img style="margin-left:2px; margin-right:2px;" src="assets/mongodb.jpg" />
-    <img style="margin-left:2px; margin-right:2px;" src="assets/mysql.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/nodejs.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/angular.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/typescript.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/bootstrap.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/mongodb.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/mysql.jpg" />
 </div>
 </div>
 
