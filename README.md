@@ -3,6 +3,7 @@
 <h4>Stack</h4>
 <h5>Frontend</h5>
 <div style="display:inline-block;">
+    ....................................................................................................................................
     <div style="display:inline-block; width: 100px; height: 100px;">
         <img src="assets/nodejs.jpg" />
     </div>
