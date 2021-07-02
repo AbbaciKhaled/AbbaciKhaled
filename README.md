@@ -4,17 +4,17 @@
 <h5>Frontend</h5>
 <div>
 
-    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/nodejs.jpg" />
+    <img src="assets/nodejs.jpg" />
 
-    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/angular.jpg" />
+    <img src="assets/angular.jpg" />
 
-    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/typescript.jpg" />
+    <img src="assets/typescript.jpg" />
 
-    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/bootstrap.jpg" />
+    <img src="assets/bootstrap.jpg" />
 
-    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/mongodb.jpg" />
+    <img src="assets/mongodb.jpg" />
 
-    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/mysql.jpg" />
+    <img src="assets/mysql.jpg" />
 </div>
 </div>
 
