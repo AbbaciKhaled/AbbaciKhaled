@@ -2,26 +2,20 @@
 
 <h4>Stack</h4>
 <h5>Frontend</h5>
-<div style="display:inline-block;">
-    ....................................................................................................................................
-    <div style="display:inline-block; width: 100px; height: 100px;">
-        <img src="assets/nodejs.jpg" />
-    </div>
-    <div style="display:inline-block; width: 100px; height: 100px;">
-        <img src="assets/angular.jpg" />
-    </div>
-    <div style="display:inline-block; width: 100px; height: 100px;">
-        <img src="assets/typescript.jpg" />
-    </div>
-    <div style="display:inline-block; width: 100px; height: 100px;">
-        <img src="assets/bootstrap.jpg" />
-    </div>
-    <div style="display:inline-block; width: 100px; height: 100px;">
-        <img src="assets/mongodb.jpg" />
-    </div>
-    <div style="display:inline-block; width: 100px; height: 100px;">
-        <img src="assets/mysql.jpg" />
-    </div>
+<div>
+
+    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/nodejs.jpg" />
+
+    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/angular.jpg" />
+
+    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/typescript.jpg" />
+
+    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/bootstrap.jpg" />
+
+    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/mongodb.jpg" />
+
+    <img style="display:inline-block; width: 100px; height: 100px;" src="assets/mysql.jpg" />
+</div>
 </div>
 
 <h4>About me</h4>
