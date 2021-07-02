@@ -21,5 +21,8 @@
 
 <h4>Social Networks</h4>
 <div>
-    <a href="https://web.facebook.com/abbacikhaled/" taget="_blank"><img src="assets/facebook.png" /></a>
+    <a href="https://www.linkedin.com/in/abbacikhaled/" target="_blank"><img src="assets/linkedin.png" /></a>
+    <a href="https://twitter.com/KhaledAbbaci" target="_blank"><img src="assets/twitter.png" /></a>
+    <a href="https://web.facebook.com/abbacikhaled/" target="_blank"><img src="assets/facebook.png" /></a>
+    <a href="https://www.instagram.com/khaled.abbaci/" target="_blank"><img src="assets/instagram.png" /></a>
 </div>
