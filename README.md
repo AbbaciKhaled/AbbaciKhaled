@@ -3,17 +3,11 @@
 <h4>Stack</h4>
 <h5>Frontend</h5>
 <div>
-
     <img src="assets/nodejs.jpg" />
-
     <img src="assets/angular.jpg" />
-
     <img src="assets/typescript.jpg" />
-
     <img src="assets/bootstrap.jpg" />
-
     <img src="assets/mongodb.jpg" />
-
     <img src="assets/mysql.jpg" />
 </div>
 </div>
