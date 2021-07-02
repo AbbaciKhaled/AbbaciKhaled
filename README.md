@@ -21,5 +21,5 @@
 
 <h4>Social Networks</h4>
 <div>
-    <a href="facebook.com/abbacikhaled/" taget="_blank"><img src="assets/facebook.png" /></a>
+    <a href="https://web.facebook.com/abbacikhaled/" taget="_blank"><img src="assets/facebook.png" /></a>
 </div>
