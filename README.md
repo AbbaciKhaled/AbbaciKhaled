@@ -1,7 +1,6 @@
 <h3>Hi, I'm Khaled ABBACI</h3>
 
 <h4>Stack</h4>
-<h5>Frontend</h5>
 <div>
     <img style="margin-left:4px; margin-right:4px;" src="assets/nodejs.jpg" />
     <img style="margin-left:4px; margin-right:4px;" src="assets/angular.jpg" />
