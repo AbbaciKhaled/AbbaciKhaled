@@ -5,6 +5,8 @@
     <img style="margin-left:4px; margin-right:4px;" src="assets/nodejs.jpg" />
     <img style="margin-left:4px; margin-right:4px;" src="assets/angular.jpg" />
     <img style="margin-left:4px; margin-right:4px;" src="assets/typescript.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/reactjs.jpg" />
+    <img style="margin-left:4px; margin-right:4px;" src="assets/nextjs.jpg" />
     <img style="margin-left:4px; margin-right:4px;" src="assets/bootstrap.jpg" />
     <img style="margin-left:4px; margin-right:4px;" src="assets/mongodb.jpg" />
     <img style="margin-left:4px; margin-right:4px;" src="assets/mysql.jpg" />
