@@ -16,8 +16,8 @@
 <ul>
     <li><b>Function:</b> Software Engineer</li>
     <li><b>Email:</b> <a href="mailto:abbacikhaled@gmail.com">abbacikhaled@gmail.com</a></li>
-    <li><b>Phone number:</b> +213552247943</li>
-    <li><b>Location:</b> Algiers, Algeria</li>
+    <li><b>Phone number:</b> +32470653497</li>
+    <li><b>Location:</b> Brussels, Belgium</li>
 </ul>
 
 <h4>Social Networks</h4>
