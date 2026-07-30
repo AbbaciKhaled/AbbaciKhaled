@@ -1,18 +1,22 @@
+![Khaled Abbaci — Full-Stack Developer · Odoo Expert · PhD Researcher](./github-banner.svg)
+
 <div align="center">
 
-# Khaled Abbaci
-
-**Full Stack Developer** &nbsp;·&nbsp; Belgium &nbsp;→&nbsp; Remote Worldwide
-
-Designing and building scalable web applications at the intersection of clean engineering, AI integration, and thoughtful user experience.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/khaledabbaci.com-0f172a?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
+[![Portfolio](https://img.shields.io/badge/khaledabbaci.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
 &ensp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-abbaci)
 &ensp;
 [![Email](https://img.shields.io/badge/abbacikhaled@gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white)](mailto:abbacikhaled@gmail.com)
+
+<br/>
+
+![](https://img.shields.io/badge/6%2B_Years-Experience-2563EB?style=flat-square&labelColor=0f172a)
+&ensp;
+![](https://img.shields.io/badge/50%2B-Projects_Delivered-F97316?style=flat-square&labelColor=0f172a)
+&ensp;
+![](https://img.shields.io/badge/1-IEEE_Publication-7c3aed?style=flat-square&labelColor=0f172a)
+&ensp;
+![](https://img.shields.io/badge/4-Languages-059669?style=flat-square&labelColor=0f172a)
 
 </div>
 
@@ -20,19 +24,22 @@ Designing and building scalable web applications at the intersection of clean en
 
 ## About
 
-I transform complex business requirements into reliable, elegant digital products. My work spans client-facing interfaces, server-side architecture, and AI-powered pipelines — with consistent attention to maintainability, performance, and the experience of the people using what I build.
+Software engineer with **6+ years** designing and building web applications, enterprise ERP systems, and AI-driven products — from early-stage startups to multi-company deployments across Belgium, France, and Algeria.
 
-6+ years working across product startups, consulting engagements, and research — always with the same standard: ship things that last.
+I work across the full stack with consistent attention to architecture, performance, and the experience of the people using what I build. My work sits at the intersection of product thinking and solid engineering: applications that are maintainable, not just functional.
+
+**PhD candidate** in IoT & Recommender Systems &nbsp;·&nbsp; **1 IEEE publication** &nbsp;·&nbsp; Based in **Belgium** &nbsp;·&nbsp; Available **remote worldwide**
 
 ---
 
 ## What I Build
 
 - **Full-stack web applications** — from database schema to UI micro-interaction, with Next.js, Node.js, and TypeScript throughout
-- **AI-integrated products** — RAG pipelines, LLM orchestration with LangChain, and context-aware assistants using OpenAI and Ollama
-- **Backend systems and APIs** — RESTful services, NestJS modules, and event-driven architectures built for scale
-- **Data-driven interfaces** — dashboards, admin panels, and reporting tools backed by PostgreSQL, MySQL, or MongoDB
-- **Production deployments** — containerized with Docker, automated with GitHub Actions, hosted on Vercel or cloud infrastructure
+- **AI-integrated products** — RAG pipelines, LLM orchestration with LangChain, and context-aware assistants built on OpenAI and Ollama
+- **Odoo ERP solutions** — custom modules, v14 → v19 migrations, multi-company setups, and third-party system integrations
+- **Backend systems and APIs** — RESTful services, NestJS modules, and event-driven architectures designed for scale
+- **Research-driven tools** — IoT systems, recommender engines, and data pipelines grounded in peer-reviewed methodology
+- **Production deployments** — containerized with Docker, automated via GitHub Actions, and delivered on Vercel or cloud infrastructure
 
 ---
 
@@ -44,12 +51,14 @@ I transform complex business requirements into reliable, elegant digital product
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![GSAP](https://img.shields.io/badge/GSAP-0f172a?style=flat-square&logo=greensock&logoColor=88CE02)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
 
 **Database**
 
@@ -57,12 +66,17 @@ I transform complex business requirements into reliable, elegant digital product
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248)
 
-**AI**
+**AI & Research**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-0f172a?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0f172a?style=flat-square&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Systems-0f172a?style=flat-square&logoColor=white)
+
+**ERP**
+
+![Odoo](https://img.shields.io/badge/Odoo-0f172a?style=flat-square&logo=odoo&logoColor=875A7B)
 
 **DevOps**
 
@@ -138,6 +152,14 @@ I transform complex business requirements into reliable, elegant digital product
 
 ---
 
+## Trusted Collaborations
+
+A selection of organizations I've delivered software engineering, Odoo ERP, digital platforms, and research-driven projects for:
+
+`Horiatech` `WeOne IT` `KSM-IT Consulting` `Group S` `Clubit` `DKS` `OpenScaler` `USTHB` and **15+ more** organizations across Belgium, France, and Algeria.
+
+---
+
 ## Featured Projects
 
 <table>
@@ -168,9 +190,9 @@ I transform complex business requirements into reliable, elegant digital product
       <h3>Project Name</h3>
       <p>Short description of what it does and the problem it solves. One or two sentences.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933" />
-        <img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248" />
-        <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED" />
+        <img src="https://img.shields.io/badge/Odoo-0f172a?style=flat-square&logo=odoo&logoColor=875A7B" />
+        <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1" />
       </p>
       <a href="#">Live</a> &nbsp;·&nbsp; <a href="#">Repo</a>
     </td>
@@ -178,9 +200,9 @@ I transform complex business requirements into reliable, elegant digital product
       <h3>Project Name</h3>
       <p>Short description of what it does and the problem it solves. One or two sentences.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248" />
       </p>
       <a href="#">Live</a> &nbsp;·&nbsp; <a href="#">Repo</a>
     </td>
