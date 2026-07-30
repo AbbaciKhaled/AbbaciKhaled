@@ -1,16 +1,12 @@
+![Khaled ABBACI — Full-Stack Developer · Odoo Expert · PhD Researcher](./github-banner.svg)
+
 <div align="center">
 
-# Hi, I'm Khaled 👋
-### I build scalable business software.
-
-**Software Engineer · Odoo Expert · PhD Researcher (IoT & AI)**
-
-Based in Belgium 🇧🇪 — Working remotely worldwide 🌍
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-khaledabbaci.com-2563EB?style=flat-square&logo=globe&logoColor=white)](https://khaledabbaci.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khaled--abbaci-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-abbaci)
-[![Email](https://img.shields.io/badge/Email-abbacikhaled@gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white)](mailto:abbacikhaled@gmail.com)
-![Available](https://img.shields.io/badge/Status-Available%20for%20projects-22c55e?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/khaledabbaci.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
+&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-abbaci)
+&ensp;
+[![Email](https://img.shields.io/badge/abbacikhaled@gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white)](mailto:abbacikhaled@gmail.com)
 
 </div>
 
@@ -18,12 +14,9 @@ Based in Belgium 🇧🇪 — Working remotely worldwide 🌍
 
 ## About Me
 
-Software Engineer with **6+ years of experience** designing and building scalable web applications, enterprise ERP platforms, and AI-driven solutions.
+Software Engineer with **6+ years of experience** designing and building scalable web applications, enterprise ERP platforms, and AI-driven solutions — primarily with JavaScript/TypeScript, Python, and Odoo.
 
-- 🏢 Delivering software for startups, SMEs, and enterprise clients across **Belgium, France, Algeria, and worldwide**
-- 🎓 **PhD candidate** in IoT & Recommender Systems — 1 IEEE publication
-- 🤖 Combining software engineering, functional analysis, and AI research to build impactful products
-- 🗣️ Fluent in **English · Français · العربية · Tamazight**
+**PhD candidate** in IoT & Recommender Systems &nbsp;·&nbsp; **1 IEEE publication** &nbsp;·&nbsp; Based in **Belgium 🇧🇪** &nbsp;·&nbsp; Available **remote worldwide 🌍**
 
 ---
 
@@ -31,60 +24,62 @@ Software Engineer with **6+ years of experience** designing and building scalabl
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=0f172a)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=black)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-%232563EB?style=flat-square&logoColor=white)
 
-**ERP & Specialties**
+**ERP & Research**
 
-![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-2563EB?style=flat-square&logo=raspberrypi&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logo=openai&logoColor=white)
-
----
-
-## What I Build
-
-| Area | Details |
-|---|---|
-| **Full-Stack Web Apps** | React / Next.js frontends · Node.js / Python backends · REST & GraphQL APIs |
-| **Odoo ERP** | Custom modules · Migrations v14→v19 · Multi-company setups · Third-party integrations |
-| **Research & AI** | IoT systems · Recommender systems · AI agents · IEEE-published research |
-| **Dev Tools & Packages** | KPM Libraries · open-source utilities published to npm |
+![Odoo](https://img.shields.io/badge/Odoo-%23875A7B?style=flat-square&logo=odoo&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Systems-%232563EB?style=flat-square&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-%237c3aed?style=flat-square&logoColor=white)
 
 ---
 
-## Selected Collaborations
-
-`Horiatech` · `WeOne IT` · `KSM-IT Consulting` · `Group S` · `Clubit` · `DKS` · `OpenScaler` · `USTHB` · and 15+ other organizations
-
----
-
-## Stats
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbbaciKhaled&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=F97316&text_color=0f172a&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbaciKhaled&layout=compact&hide_border=true&title_color=2563EB&text_color=0f172a&bg_color=ffffff)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbbaciKhaled&show_icons=true&hide_border=true&title_color=2563EB&icon_color=F97316&text_color=334155&bg_color=ffffff&include_all_commits=true#gh-light-mode-only" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbbaciKhaled&show_icons=true&hide_border=true&title_color=4493f8&icon_color=F97316&text_color=e6edf3&bg_color=0d1117&include_all_commits=true#gh-dark-mode-only" />
+&ensp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbaciKhaled&layout=compact&hide_border=true&title_color=2563EB&text_color=334155&bg_color=ffffff&langs_count=6#gh-light-mode-only" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbaciKhaled&layout=compact&hide_border=true&title_color=4493f8&text_color=e6edf3&bg_color=0d1117&langs_count=6#gh-dark-mode-only" />
 
 </div>
 
 ---
 
+## What I Build
+
+| Area | Technologies & Details |
+|---|---|
+| ⚡ **Full-Stack Web** | React · Next.js · Node.js · Python · TypeScript · REST APIs |
+| 🟣 **Odoo ERP** | Custom modules · v14 → v19 migrations · Multi-company · Integrations |
+| 🔬 **Research & AI** | IoT systems · Recommender systems · AI agents · IEEE-published |
+| 📦 **Open Source** | KPM Libraries · npm packages · developer utilities |
+
+---
+
+## Trusted Collaborations
+
+`Horiatech` `WeOne IT` `KSM-IT Consulting` `Group S` `Clubit` `DKS` `OpenScaler` `USTHB` and 15+ more organizations across Belgium, France, and Algeria.
+
+---
+
 <div align="center">
 
-**6+ years · 50+ projects · 1 IEEE publication · 4 languages**
+**Open to freelance missions · Long-term partnerships · Full-time opportunities**
 
-*Open to freelance missions, long-term collaborations, and full-time opportunities.*
-
-[khaledabbaci.com](https://khaledabbaci.com) · [abbacikhaled@gmail.com](mailto:abbacikhaled@gmail.com)
+[khaledabbaci.com](https://khaledabbaci.com) &nbsp;·&nbsp; [abbacikhaled@gmail.com](mailto:abbacikhaled@gmail.com)
 
 </div>
