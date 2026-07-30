@@ -45,19 +45,17 @@ Software Engineer with **6+ years of experience** designing and building scalabl
 
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbbaciKhaled&show_icons=true&hide_border=true&title_color=4493f8&icon_color=F97316&text_color=e6edf3&bg_color=0d1117&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbbaciKhaled&show_icons=true&hide_border=true&title_color=2563EB&icon_color=F97316&text_color=334155&bg_color=ffffff&include_all_commits=true" />
-</picture>
+![](https://img.shields.io/badge/6%2B_Years-Experience-2563EB?style=flat-square&labelColor=0f172a)
 &ensp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbaciKhaled&layout=compact&hide_border=true&title_color=4493f8&text_color=e6edf3&bg_color=0d1117&langs_count=6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbaciKhaled&layout=compact&hide_border=true&title_color=2563EB&text_color=334155&bg_color=ffffff&langs_count=6" />
-</picture>
+![](https://img.shields.io/badge/50%2B-Projects_Delivered-F97316?style=flat-square&labelColor=0f172a)
+&ensp;
+![](https://img.shields.io/badge/1-IEEE_Publication-7c3aed?style=flat-square&labelColor=0f172a)
+&ensp;
+![](https://img.shields.io/badge/4-Languages-059669?style=flat-square&labelColor=0f172a)
 
 </div>
 
