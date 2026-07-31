@@ -1,14 +1,14 @@
 ![Khaled Abbaci — Full-Stack Developer · Odoo Expert · PhD Researcher](./github-banner.svg)
 
 <div align="center">
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/khaledabbaci.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
+[![](https://img.shields.io/badge/khaledabbaci.com-Visit_Portfolio_%E2%86%92-2563EB?style=for-the-badge&logo=safari&logoColor=white&labelColor=0f172a)](https://khaledabbaci.com)
 
+<br/>
 </div>
 
 ---
-
-## About
 
 Software engineer with **6+ years** designing and building web applications, enterprise ERP systems, and AI-driven products — from early-stage startups to multi-company deployments across Belgium, France, and Algeria.
 
@@ -20,14 +20,18 @@ I work across the full stack with consistent attention to architecture, performa
 
 ## Tech Stack
 
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
-![Odoo](https://img.shields.io/badge/Odoo-0f172a?style=flat-square&logo=odoo&logoColor=875A7B)
-![IoT](https://img.shields.io/badge/IoT_Systems-0f172a?style=flat-square&logo=mqtt&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0f172a?style=flat-square&logo=openai&logoColor=white)
+<div align="center">
+
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Odoo](https://img.shields.io/badge/Odoo-0f172a?style=for-the-badge&logo=odoo&logoColor=875A7B)
+![IoT](https://img.shields.io/badge/IoT_Systems-0f172a?style=for-the-badge&logo=mqtt&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
@@ -77,15 +81,11 @@ I work across the full stack with consistent attention to architecture, performa
 
 ## Trusted Collaborations
 
-A selection of organizations I've delivered software engineering, Odoo ERP, digital platforms, and research-driven projects for:
-
-`Horiatech` `WeOne IT` `KSM-IT Consulting` `Group S` `Clubit` `DKS` `OpenScaler` `USTHB` and **15+ more** organizations across Belgium, France, and Algeria.
+`Horiatech` `Group S` `Clubit` `OpenScaler` `DKS` `WeOne IT` `KSM-IT Consulting` and **15+ more** organizations across Belgium, France, and Algeria.
 
 ---
 
-## Connect
-
-Open to **freelance missions**, **long-term partnerships**, and **full-time opportunities**.
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/khaledabbaci.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
 &ensp;
@@ -93,8 +93,4 @@ Open to **freelance missions**, **long-term partnerships**, and **full-time oppo
 &ensp;
 [![Email](https://img.shields.io/badge/abbacikhaled@gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white)](mailto:abbacikhaled@gmail.com)
 
----
-
-<div align="center">
-  <sub>khaledabbaci.com &nbsp;·&nbsp; Belgium → Remote Worldwide</sub>
 </div>
