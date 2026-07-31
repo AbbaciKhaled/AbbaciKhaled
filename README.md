@@ -10,7 +10,7 @@ I work across the full stack with consistent attention to architecture, performa
 
 <div align="center">
 
-[![khaledabbaci.com](https://img.shields.io/badge/khaledabbaci.com-F97316?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
+[![khaledabbaci.com](https://img.shields.io/badge/khaledabbaci.com-F97316?style=for-the-badge&logo=safari&logoColor=white)](https://khaledabbaci.com)
 
 </div>
 
