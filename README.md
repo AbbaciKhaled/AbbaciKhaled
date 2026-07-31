@@ -3,7 +3,7 @@
 <div align="center">
 <br/>
 
-[![](https://img.shields.io/badge/khaledabbaci.com-Visit_Portfolio_%E2%86%92-2563EB?style=for-the-badge&logo=safari&logoColor=white&labelColor=0f172a)](https://khaledabbaci.com)
+[![](https://img.shields.io/badge/khaledabbaci.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khaledabbaci.com)
 
 <br/>
 </div>
@@ -22,14 +22,14 @@ I work across the full stack with consistent attention to architecture, performa
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Odoo](https://img.shields.io/badge/Odoo-0f172a?style=for-the-badge&logo=odoo&logoColor=875A7B)
-![IoT](https://img.shields.io/badge/IoT_Systems-0f172a?style=for-the-badge&logo=mqtt&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0f172a)
+![Next.js](https://img.shields.io/badge/Next.js-f5f5f5?style=for-the-badge&logo=nextdotjs&logoColor=0f172a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Systems-2563EB?style=for-the-badge&logo=mqtt&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
