@@ -1,24 +1,14 @@
 ![Khaled Abbaci — Full-Stack Developer · Odoo Expert · PhD Researcher](./github-banner.svg)
 
-<div align="center">
 <br/>
 
-[![](https://img.shields.io/badge/khaledabbaci.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khaledabbaci.com)
-
-<br/>
-</div>
-
----
-
-Software engineer with **6+ years** designing and building web applications, enterprise ERP systems, and AI-driven products — from early-stage startups to multi-company deployments across Belgium, France, and Algeria.
+Software engineer with **7+ years** designing and building web applications, enterprise ERP systems, and AI-driven products — from early-stage startups to multi-company deployments across Belgium, France, and Algeria.
 
 I work across the full stack with consistent attention to architecture, performance, and the experience of the people using what I build. My work sits at the intersection of product thinking and solid engineering: applications that are maintainable, not just functional.
 
 **PhD candidate** in IoT & Recommender Systems
 
 ---
-
-## Tech Stack
 
 <div align="center">
 
@@ -35,9 +25,16 @@ I work across the full stack with consistent attention to architecture, performa
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="200"><h2>7+</h2><sub>Years Experience</sub></td>
+<td align="center" width="200"><h2>50+</h2><sub>Projects</sub></td>
+</tr>
+</table>
+
+<br/>
 
 <picture>
   <source
@@ -61,9 +58,7 @@ I work across the full stack with consistent attention to architecture, performa
   />
 </picture>
 
-</div>
-
-<div align="center">
+<br/>
 
 <picture>
   <source
