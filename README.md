@@ -6,7 +6,7 @@ Software engineer with **7+ years** designing and building web applications, ent
 
 I work across the full stack with consistent attention to architecture, performance, and the experience of the people using what I build. My work sits at the intersection of product thinking and solid engineering: applications that are maintainable, not just functional.
 
-**PhD candidate** in IoT & Recommender Systems
+PhD candidate in IoT & Recommender Systems
 
 <div align="center">
 
