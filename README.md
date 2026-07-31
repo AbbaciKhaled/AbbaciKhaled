@@ -8,36 +8,40 @@ I work across the full stack with consistent attention to architecture, performa
 
 **PhD candidate** in IoT & Recommender Systems
 
-[![khaledabbaci.com](https://img.shields.io/badge/khaledabbaci.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
+<div align="center">
+
+[![khaledabbaci.com](https://img.shields.io/badge/khaledabbaci.com-F97316?style=flat-square&logo=safari&logoColor=white)](https://khaledabbaci.com)
+
+</div>
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-1f2937?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1f2937?style=for-the-badge&logo=django&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-1f2937?style=for-the-badge&logo=odoo&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-1f2937?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1f2937?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![IoT Systems](https://img.shields.io/badge/IoT_Systems-1f2937?style=for-the-badge&logo=mqtt&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-1f2937?style=for-the-badge&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-f1f5f9?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-f1f5f9?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-f1f5f9?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-f1f5f9?style=for-the-badge&logo=express&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-f1f5f9?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-f1f5f9?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-f1f5f9?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-f1f5f9?style=for-the-badge&logo=django&logoColor=092E20)
+![Odoo](https://img.shields.io/badge/Odoo-f1f5f9?style=for-the-badge&logo=odoo&logoColor=875A7B)
+![MongoDB](https://img.shields.io/badge/MongoDB-f1f5f9?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f1f5f9?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Material UI](https://img.shields.io/badge/Material_UI-f1f5f9?style=for-the-badge&logo=mui&logoColor=0081CB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f1f5f9?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![IoT Systems](https://img.shields.io/badge/IoT_Systems-f1f5f9?style=for-the-badge&logo=mqtt&logoColor=2563EB)
+![AI Agents](https://img.shields.io/badge/AI_Agents-f1f5f9?style=for-the-badge&logo=openai&logoColor=412991)
 
 </div>
 
 <div align="center">
 <br/>
 
-![7+ Years Experience](https://img.shields.io/badge/-7%2B_Years_Experience-2563EB?style=for-the-badge)
+<img height="48" src="https://img.shields.io/badge/-7%2B%20Years%20Experience-2563EB?style=for-the-badge" alt="7+ Years Experience"/>
 &ensp;&ensp;
-![50+ Projects](https://img.shields.io/badge/-50%2B_Projects-F97316?style=for-the-badge)
+<img height="48" src="https://img.shields.io/badge/-50%2B%20Projects-2563EB?style=for-the-badge" alt="50+ Projects"/>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source
